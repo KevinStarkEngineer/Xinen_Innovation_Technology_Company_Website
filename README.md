@@ -1,0 +1,2 @@
+# Xinen_Innovation_Technology_Company_Website
+這是一個關於昕恩創新科技公司網站的程式碼專案，裡面包含了一頁式網站程式碼及相關資料。
